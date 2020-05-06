@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"alignm",
+				"align-items\tproperty"
+			],
+			[
+				"a",
+				"auto\tbackground-size"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"backgr",
+				"background-attachment\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"l",
+				"linear-gradient"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"cu",
+				"Customers"
+			],
+			[
+				"s",
+				"scale()\ttransform"
+			],
+			[
+				"sca",
+				"scale3d()\ttransform"
+			],
+			[
+				"ove",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"backgroumn",
+				"background-image\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"blCK",
+				"black"
+			],
+			[
+				"marn",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b",
+				"block\tdisplay"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"tans",
+				"transition\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"ca",
+				"carouselExampleIndicators"
+			],
+			[
+				"boot",
+				"bootstrap"
+			],
+			[
+				"fi",
+				"fill\tproperty"
+			],
+			[
+				"align-le",
+				"alignment-baseline\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"fa",
+				"float"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"txt",
+				"text-decoration\tproperty"
+			],
+			[
+				"inn",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text-s",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"sr",
+				"srow-1"
+			],
+			[
+				"sc",
+				"scol"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"next",
+				"nextInt"
+			],
+			[
+				"Ma",
+				"Matrix"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"get",
+				"getString"
+			],
+			[
+				"Re",
+				"Resultset"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"Ec",
+				"Exception"
+			],
+			[
+				"cs",
+				"csumbBank"
+			],
+			[
+				"to",
+				"totalc"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"ex",
+				"executeQuery"
+			],
+			[
+				"count",
+				"countquery"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"bank",
+				"bankname"
+			],
+			[
+				"ban",
+				"bankname"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"tc",
+				"tcustomer_balance"
+			],
+			[
+				"t",
+				"tbalance_check"
+			],
+			[
+				"tpin",
+				"tpin"
+			],
+			[
+				"tp",
+				"tpin_check"
+			],
+			[
+				"depo",
+				"deposit_fail"
+			],
+			[
+				"wi",
+				"withdrawal_fail"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"with",
+				"withdrawal_fail"
+			],
+			[
+				"wit",
+				"withdrawal_success"
+			],
+			[
+				"final",
+				"final_balance"
+			],
+			[
+				"I",
+				"Integer"
+			],
+			[
+				"pin",
+				"pin_check"
+			],
+			[
+				"AT",
+				"ATM_balance"
+			],
+			[
+				"cust",
+				"customer_list"
+			],
+			[
+				"CUS",
+				"customer_list"
+			],
+			[
+				"customer",
+				"customer_list"
+			],
+			[
+				"At",
+				"ATM"
+			],
+			[
+				"add",
+				"add_money"
+			],
+			[
+				"machine",
+				"machine1"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"mac",
+				"machine1"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"dou",
+				"Double"
+			],
+			[
+				"customer_ba",
+				"customer_bank"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"cont",
+				"containers"
+			],
+			[
+				"page_",
+				"page_html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/app/vedant/product/12.1.0/dbhome_1/NETWORK/ADMIN/tnsnames.ora",
+		"/C/Program Files/nodejs/hello.js",
+		"/C/Users/Hp/Desktop/Notes/Academics/M.Sc. Computer Science/Semester2/03 Cyber Security/Practicals/02 SSL/SSL/src/ssl/demokey",
+		"/D/app/vedant/product/12.1.0/dbhome_1/NETWORK/ADMIN/sqlnet.ora",
+		"/D/app/vedant/product/12.1.0/dbhome_1/NETWORK/ADMIN/listener.ora",
+		"/D/app/vedant/product/12.1.0/dbhome_1/NETWORK/ADMIN/SAMPLE/tnsnames.oRA",
+		"/C/Users/Hp/Desktop/CodePen_Export_XWrdGgW/src/index.html",
+		"/C/Users/Hp/Desktop/Projects/CapsiGO Website/style.css",
+		"/C/Users/Hp/Desktop/Projects/CapsiGO Website/index.html",
+		"/C/Users/Hp/Desktop/Movies/FIFA 14 MW [S]/1game.v",
+		"/F/T56U11 SONY 1920X1080 .BIN",
+		"/C/Users/Hp/Desktop/matrix.java",
+		"/C/Users/Hp/Desktop/capsigo-ff373-export (8).json",
+		"/C/Users/Hp/Desktop/capsigo-ff373-export (7).json",
+		"/C/Users/Hp/Downloads/capsigo-ff373-export (6).json",
+		"/C/Users/Hp/Desktop/capsigo-ff373-export (6).json",
+		"/C/Users/Hp/Downloads/Capsigo/app/build/outputs/apk/debug/output.json",
+		"/C/Users/Hp/Desktop/capsigo-ff373-export (4).json",
+		"/C/Users/Hp/Desktop/ns/Caesar Cipher/caesarcipher.java",
+		"/C/Users/Hp/Desktop/ns/Mono-Alphabetic Cipher/monoalphabeticcipher.java",
+		"/C/Users/Hp/Desktop/ns/caesarcipher.java",
+		"/C/Users/Hp/Desktop/ns/monoalphabeticcipher.java",
+		"/C/Users/Hp/Desktop/Database backup/login_data.json",
+		"/C/Users/Hp/Desktop/account.java",
+		"/C/Users/Hp/Desktop/customer.java",
+		"/C/Users/Hp/Desktop/bank.java",
+		"/C/Users/Hp/Desktop/ATM.java",
+		"/C/Users/Hp/Desktop/Customer.java",
+		"/C/Users/Hp/Downloads/capsigo-ff373-export (2).json",
+		"/C/Users/Hp/Desktop/Database backup/hotel_data.json",
+		"/C/Users/Hp/Desktop/login_data.json",
+		"/C/Users/Hp/Downloads/capsigo-ff373-export.json",
+		"/C/Users/Hp/Desktop/amazonwebscrape.py",
+		"/C/Users/Hp/Desktop/database/Customer.java",
+		"/C/Users/Hp/Desktop/Projects/Amazon Web Scrape/amazonwebscrape.py",
+		"/C/Users/Hp/Downloads/Chapter1_WebService.pdf",
+		"/C/Users/Hp/Desktop/instagramwebscrape.py",
+		"/C/Users/Hp/Downloads/untitled.erdplus",
+		"/C/Users/Hp/Desktop/site.html",
+		"/C/Users/Hp/Downloads/bino/bino-free-html5-landing-page-template/index.html",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Python 3.7/IDLE (Python 3.7 32-bit).lnk"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
